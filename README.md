@@ -44,10 +44,25 @@
 
 I have experience building projects with Flutter, a UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. Below are some of the projects I have worked on:
 
-- Project 1: Description of the project.
-- Project 2: Description of the project.
-- Project 3: Description of the project.
+- Project 1: Ecommerce (Admin , User , Delivery)
+- Project 2: EnglishUp
+- Project 3: _______Game
 
+Feel free to check out my projects [here](https://github.com/hasibulkabiremon/Ecommerce-user).
+
+### Web Scraping using Selenium and AI Agents
+
+<p align="left">
+  <a href="https://www.selenium.dev/" target="_blank" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" height="50"/>
+  </a>
+</p>
+
+I have expertise in web scraping using Selenium and developing AI agents to automate and extract data from websites. Below are some of the projects I have worked on:
+
+- Project X: Twitter Post and Comment Scrapper
+  
+Feel free to check out my projects [here](https://github.com/hasibulkabiremon/tweeter_data_scrapping).
 ### UiPath Automation
 
 <p align="left">
@@ -56,10 +71,19 @@ I have experience building projects with Flutter, a UI toolkit for building nati
   </a>
 </p>
 
-I am also experienced in creating automation solutions using UiPath, a leading Robotic Process Automation (RPA) tool. Below are some of the automation projects I have worked on:
+I am also experienced in creating automation solutions using UiPath, a leading Robotic Process Automation (RPA) tool.
 
-- Project A: Description of the project.
-- Project B: Description of the project.
-- Project C: Description of the project.
+### Firebase
 
-Feel free to check out my projects [here](https://github.com/hasibulkabiremon?tab=repositories).
+<p align="left">
+  <a href="https://firebase.google.com/" target="_blank" style="margin-right: 20px;">
+    <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="Firebase" height="50"/>
+  </a>
+</p>
+
+I have experience working with Firebase, a platform developed by Google for creating mobile and web applications. Below are some of the projects I have worked on:
+
+- Project 1: Ecommerce (Admin , User , Delivery)
+- Project 2: EnglishUp
+
+Feel free to check out my projects [here](https://github.com/hasibulkabiremon/Ecommerce-user).
